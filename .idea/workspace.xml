@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b7cfaad-5589-4b03-890a-2a02da7da697" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="c10b112b-403c-465d-8655-d42a3dfc15db" name="Server1" port="8000" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject" />
+          <mapping local-root="$PROJECT_DIR$/vendor/asm89/stack-cors" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/asm89/stack-cors" />
+          <mapping local-root="$PROJECT_DIR$/vendor/brick/math" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/brick/math" />
+          <mapping local-root="$PROJECT_DIR$/vendor/composer" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/composer" />
+          <mapping local-root="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/dnoegel/php-xdg-base-dir" />
+          <mapping local-root="$PROJECT_DIR$/vendor/doctrine/inflector" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/doctrine/inflector" />
+          <mapping local-root="$PROJECT_DIR$/vendor/doctrine/instantiator" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/doctrine/instantiator" />
+          <mapping local-root="$PROJECT_DIR$/vendor/doctrine/lexer" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/doctrine/lexer" />
+          <mapping local-root="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/dragonmantank/cron-expression" />
+          <mapping local-root="$PROJECT_DIR$/vendor/egulias/email-validator" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/egulias/email-validator" />
+          <mapping local-root="$PROJECT_DIR$/vendor/facade/flare-client-php" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/facade/flare-client-php" />
+          <mapping local-root="$PROJECT_DIR$/vendor/facade/ignition" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/facade/ignition" />
+          <mapping local-root="$PROJECT_DIR$/vendor/facade/ignition-contracts" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/facade/ignition-contracts" />
+          <mapping local-root="$PROJECT_DIR$/vendor/fideloper/proxy" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/fideloper/proxy" />
+          <mapping local-root="$PROJECT_DIR$/vendor/filp/whoops" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/filp/whoops" />
+          <mapping local-root="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/fruitcake/laravel-cors" />
+          <mapping local-root="$PROJECT_DIR$/vendor/fzaninotto/faker" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/fzaninotto/faker" />
+          <mapping local-root="$PROJECT_DIR$/vendor/graham-campbell/result-type" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/graham-campbell/result-type" />
+          <mapping local-root="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/guzzlehttp/guzzle" />
+          <mapping local-root="$PROJECT_DIR$/vendor/guzzlehttp/promises" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/guzzlehttp/promises" />
+          <mapping local-root="$PROJECT_DIR$/vendor/guzzlehttp/psr7" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/guzzlehttp/psr7" />
+          <mapping local-root="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/hamcrest/hamcrest-php" />
+          <mapping local-root="$PROJECT_DIR$/vendor/laravel/framework" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/laravel/framework" />
+          <mapping local-root="$PROJECT_DIR$/vendor/laravel/tinker" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/laravel/tinker" />
+          <mapping local-root="$PROJECT_DIR$/vendor/league/commonmark" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/league/commonmark" />
+          <mapping local-root="$PROJECT_DIR$/vendor/league/flysystem" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/league/flysystem" />
+          <mapping local-root="$PROJECT_DIR$/vendor/mockery/mockery" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/mockery/mockery" />
+          <mapping local-root="$PROJECT_DIR$/vendor/monolog/monolog" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/monolog/monolog" />
+          <mapping local-root="$PROJECT_DIR$/vendor/myclabs/deep-copy" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/myclabs/deep-copy" />
+          <mapping local-root="$PROJECT_DIR$/vendor/nesbot/carbon" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/nesbot/carbon" />
+          <mapping local-root="$PROJECT_DIR$/vendor/nikic/php-parser" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/nikic/php-parser" />
+          <mapping local-root="$PROJECT_DIR$/vendor/nunomaduro/collision" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/nunomaduro/collision" />
+          <mapping local-root="$PROJECT_DIR$/vendor/opis/closure" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/opis/closure" />
+          <mapping local-root="$PROJECT_DIR$/vendor/paragonie/random_compat" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/paragonie/random_compat" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phar-io/manifest" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phar-io/manifest" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phar-io/version" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phar-io/version" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpdocumentor/reflection-common" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpdocumentor/reflection-docblock" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpdocumentor/type-resolver" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpoption/phpoption" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpoption/phpoption" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpspec/prophecy" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpspec/prophecy" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpunit/php-code-coverage" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpunit/php-file-iterator" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpunit/php-invoker" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpunit/php-invoker" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpunit/php-text-template" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpunit/php-text-template" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpunit/php-timer" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpunit/php-timer" />
+          <mapping local-root="$PROJECT_DIR$/vendor/phpunit/phpunit" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/phpunit/phpunit" />
+          <mapping local-root="$PROJECT_DIR$/vendor/psr/container" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/psr/container" />
+          <mapping local-root="$PROJECT_DIR$/vendor/psr/event-dispatcher" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/psr/event-dispatcher" />
+          <mapping local-root="$PROJECT_DIR$/vendor/psr/http-client" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/psr/http-client" />
+          <mapping local-root="$PROJECT_DIR$/vendor/psr/http-message" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/psr/http-message" />
+          <mapping local-root="$PROJECT_DIR$/vendor/psr/log" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/psr/log" />
+          <mapping local-root="$PROJECT_DIR$/vendor/psr/simple-cache" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/psr/simple-cache" />
+          <mapping local-root="$PROJECT_DIR$/vendor/psy/psysh" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/psy/psysh" />
+          <mapping local-root="$PROJECT_DIR$/vendor/ralouphie/getallheaders" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/ralouphie/getallheaders" />
+          <mapping local-root="$PROJECT_DIR$/vendor/ramsey/collection" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/ramsey/collection" />
+          <mapping local-root="$PROJECT_DIR$/vendor/ramsey/uuid" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/ramsey/uuid" />
+          <mapping local-root="$PROJECT_DIR$/vendor/scrivo/highlight.php" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/scrivo/highlight.php" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/cli-parser" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/cli-parser" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/code-unit" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/code-unit" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/code-unit-reverse-lookup" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/comparator" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/comparator" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/complexity" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/complexity" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/diff" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/diff" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/environment" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/environment" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/exporter" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/exporter" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/global-state" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/global-state" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/lines-of-code" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/lines-of-code" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/object-enumerator" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/object-enumerator" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/object-reflector" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/object-reflector" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/recursion-context" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/recursion-context" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/resource-operations" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/resource-operations" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/type" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/type" />
+          <mapping local-root="$PROJECT_DIR$/vendor/sebastian/version" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/sebastian/version" />
+          <mapping local-root="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/swiftmailer/swiftmailer" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/console" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/console" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/css-selector" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/css-selector" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/deprecation-contracts" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/error-handler" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/error-handler" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/event-dispatcher" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/event-dispatcher" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/event-dispatcher-contracts" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/finder" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/finder" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/http-client-contracts" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/http-client-contracts" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/http-foundation" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/http-foundation" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/http-kernel" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/http-kernel" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/mime" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/mime" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-ctype" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-iconv" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-intl-grapheme" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-intl-idn" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-intl-normalizer" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-mbstring" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-php70" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-php70" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-php72" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-php72" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-php73" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-php73" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/polyfill-php80" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/polyfill-php80" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/process" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/process" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/routing" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/routing" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/service-contracts" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/service-contracts" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/string" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/string" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/translation" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/translation" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/translation-contracts" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/translation-contracts" />
+          <mapping local-root="$PROJECT_DIR$/vendor/symfony/var-dumper" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/symfony/var-dumper" />
+          <mapping local-root="$PROJECT_DIR$/vendor/theseer/tokenizer" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/theseer/tokenizer" />
+          <mapping local-root="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/tijsverkoyen/css-to-inline-styles" />
+          <mapping local-root="$PROJECT_DIR$/vendor/vlucas/phpdotenv" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/vlucas/phpdotenv" />
+          <mapping local-root="$PROJECT_DIR$/vendor/voku/portable-ascii" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/voku/portable-ascii" />
+          <mapping local-root="$PROJECT_DIR$/vendor/webmozart/assert" remote-root="D:/ProgrammingProjects/PHPStorm/iwwwproject/vendor/webmozart/assert" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iBmKOASMTkYsUhqideuHaEQSAV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHP Web Page.Debugger">
+    <configuration name="Laravel Built-in server" type="LaravelStorm_run_conf_serve" factoryName="Laravel" activateToolWindowBeforeRun="false">
+      <option name="host" value="localhost" />
+      <option name="port" value="8000" />
+      <option name="route" value="/" />
+      <option name="browser" value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      <option name="interpreterName" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Debugger" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" activateToolWindowBeforeRun="false" browser="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" server_name="Server1">
+      <method v="2">
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="Laravel Built-in server" run_configuration_type="LaravelStorm_run_conf_serve" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Laravel.Laravel Built-in server" />
+      <item itemvalue="PHP Web Page.Debugger" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b7cfaad-5589-4b03-890a-2a02da7da697" name="Default Changelist" comment="" />
+      <created>1601389295507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601389295507</updated>
+      <workItem from="1601389297067" duration="1852000" />
+      <workItem from="1602336665936" duration="4862000" />
+      <workItem from="1602420624138" duration="907000" />
+      <workItem from="1602425906655" duration="2191000" />
+      <workItem from="1602428891663" duration="1144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="192" key="#Servers" timestamp="1601389697666">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="540" y="192" key="#Servers/0.0.1920.1050/1920.-1.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601389697666" />
+    <state x="414" y="180" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602336784624">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.-1.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1602336784624" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1601391164700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.-1.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601391164700" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1601391164700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/1920.-1.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601391164700" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1601391164700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/1920.-1.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601391164700" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1601391164700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/1920.-1.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1601391164700" />
+  </component>
+</project>
