@@ -6,3 +6,4 @@ Created as a semestral work for IWWW. The users of this network are able to crea
 * Using Laravel framework to build a website
 * PHP Backend and frontend
 * Fundamentals of bootstrap framework.
+* MySQL Database setup 
