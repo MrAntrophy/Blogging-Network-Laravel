@@ -4,6 +4,6 @@ Created as a semestral work for IWWW. The users of this network are able to crea
 # What I Learned
 
 * Using Laravel framework to build a website
-* PHP Backend and frontend
+* PHP Backend
 * Fundamentals of bootstrap framework.
 * MySQL Database setup 
